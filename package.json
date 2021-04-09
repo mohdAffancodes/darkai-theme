@@ -1,0 +1,31 @@
+{
+    "name": "darkai-theme",
+    "displayName": "Darkai theme",
+    "description": "A mix of Vscode default dark theme and monokai + some blur borders",
+    "version": "0.0.1",
+    "publisher": "mohdAffancodes",
+    "repository": {
+        "type": "git",
+        "ur;": "https://github.com/mohdAffancodes/darkai-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "monokai",
+        "darkai",
+        "mohdAffancodes"
+    ],
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Darkai theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Darkai theme-color-theme.json"
+        }]
+    }
+}
