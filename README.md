@@ -12,7 +12,7 @@ Thanks to the Coder Coder
 <img src="https://raw.githubusercontent.com/mohdAffancodes/darkai-theme/main/assets/intro.jpg">
 <br>
 <h3>Javascript in DARKAI</h3>
-<img src="https://raw.githubusercontent.com/mohdAffancodes/darkai-theme/main/assets/hjs.jpg">
+<img src="https://raw.githubusercontent.com/mohdAffancodes/darkai-theme/main/assets/js.jpg">
 <br>
 <h3>HTML in DARKAI</h3>
 <img src="https://raw.githubusercontent.com/mohdAffancodes/darkai-theme/main/assets/html.jpg">
