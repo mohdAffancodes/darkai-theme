@@ -2,6 +2,7 @@
     "name": "darkai-theme",
     "displayName": "Darkai theme",
     "description": "A mix of Vscode default dark theme and monokai + some blue borders",
+    "icon": "https://github.com/mohdAffancodes/darkai-theme/blob/main/assets/VSLogo.jpg",
     "version": "0.0.3",
     "publisher": "mohdAffancodes",
     "repository": {

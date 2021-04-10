@@ -7,3 +7,15 @@ Thanks to the Coder Coder
 -  +Some blue borders and very very dark editor background
 <hr>
 Don't make your window full screen as the windowBorder will disappear.
+
+<h3>Vscode in DARKAI</h3>
+<img src="https://github.com/mohdAffancodes/darkai-theme/blob/main/assets/intro.jpg">
+<br>
+<h3>Javascript in DARKAI</h3>
+<img src="https://github.com/mohdAffancodes/darkai-theme/blob/main/assets/js.jpg">
+<br>
+<h3>HTML in DARKAI</h3>
+<img src="https://github.com/mohdAffancodes/darkai-theme/blob/main/assets/html.jpg">
+<br>
+<h3>CSS in DARKAI</h3>
+<img src="https://github.com/mohdAffancodes/darkai-theme/blob/main/assets/css.jpg">
