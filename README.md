@@ -6,7 +6,7 @@ Thanks to the Coder Coder
 -  This theme is a mix of monokai and default dark in vscode
 -  +Some blue borders and very very dark editor background
 <hr>
-Don't make your window full screen as the windowBorder will disappear.
+<i>Don't make your window full screen as the windowBorder will disappear.</1>
 
 <h3>Vscode in DARKAI</h3>
 <img src="https://github.com/mohdAffancodes/darkai-theme/blob/main/assets/intro.jpg">
